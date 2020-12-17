@@ -210,7 +210,7 @@ function ExistAccount() {
                 </span>
               </p>
               <p>Location: USA</p>
-              <div>
+              <div style={{ cursor: 'pointer' }}>
                 <p>
                   Password: {passwordDOMElement(PASSWORD)}{' '}
                   <span
